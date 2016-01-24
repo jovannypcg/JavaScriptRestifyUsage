@@ -1,4 +1,5 @@
-s script shows how to get the query attributes when
+/* 
+ * This script shows how to get the query attributes when
  * a GET request is made.
  *
  * Sample:
